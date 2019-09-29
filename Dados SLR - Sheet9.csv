@@ -1,228 +1,163 @@
-key,title,libraryCatalog,status,analise
-KBPR2XB7,Intrusion detection for cloud computing using neural networks and artificial bee colony optimization algorithm,ScienceDirect,Aceito,Valido
-MXUE2YFR,Cloud computing threats classification model based on the detection feasibility of machine learning algorithms,IEEE Xplore,Aceito,Valido
-JLPJDDVV,Minimizing Privilege Assignment Errors in Cloud Services,ACM Digital Library,Aceito,Valido
-9E2DYAV5,DNS-IDS: Securing DNS in the Cloud Era,IEEE Xplore,Aceito,Valido
-C2PQYE7L,An online intrusion detection system to cloud computing based on NeuCube algorithms,Google Scholar,Aceito,Valido
-HSFGF8B6,Proposed GA-BFSS and logistic regression based intrusion detection system,Google Scholar,Aceito,Valido
-4TI8M3YZ,Automated multi-level malware detection system based on reconstructed semantic view of executables using machine learning techniques at VMM,Google Scholar,Aceito,Valido
-9EQE2W28,"Cloud-Based Intrusion Detection and Response System: Open Research Issues, and Solutions",Springer Link,Aceito,Valido
-ZLNLB73D,Machine Learning for Anomaly Detection and Categorization in Multi-Cloud Environments,IEEE Xplore,Aceito,Valido
-KAQ4TMKP,Outlier Dirichlet Mixture Mechanism: Adversarial Statistical Learning for Anomaly Detection in the Fog,IEEE Xplore,Aceito,Valido
-AHBLIXEC,Adaptive Neuro-Fuzzy-Based Anomaly Detection System in Cloud,Springer Link,Aceito,Valido
-93G5KZN6,Practical Machine Learning for Cloud Intrusion Detection: Challenges and the Way Forward,ACM Digital Library,Aceito,Valido
-FV5WVMHP,LogDrive: a proactive data collection and analysis framework for time-traveling forensic investigation in IaaS cloud environments,Springer Link,Aceito,Valido
-SHJ3887F,Intelligent approach to build a Deep Neural Network based IDS for cloud environment using combination of machine learning algorithms,ScienceDirect,Aceito,Valido
-FH99YMNH,A holistic review of Network Anomaly Detection Systems: A comprehensive survey,ScienceDirect,Aceito,Valido
-PE3PLM6P,K-NN classifier for data confidentiality in cloud computing,Google Scholar,Aceito,Valido
-9X7DTSCZ,Genetic programming and K-nearest neighbour classifier based intrusion detection model,IEEE Xplore,Aceito,Valido
-LLX2PWY9,Efficient approaches for intrusion detection in cloud environment,IEEE Xplore,Aceito,Valido
-LQ76CZNB,Detecting Anomalous Behavior of Black-Box Services Modeled with Distance-Based Online Clustering,IEEE Xplore,Aceito,Valido
-4PBWNJI8,A feature selection approach to find optimal feature subsets for the network intrusion detection system,Springer Link,Rejeitado,Fora do Escopo
-AMEIDA86,"Network security and anomaly detection with Big-DAMA, a big data analytics framework",Google Scholar,Rejeitado,Fora do Escopo
-8NKVAEXH,Evaluation of Apache Spot's Machine Learning Capabilities in an SDN/NFV Enabled Environment,ACM Digital Library,Aceito,Valido
-EGIKMWP8,Securing Virtual Machines from Anomalies Using Program-Behavior Analysis in Cloud Environment,IEEE Xplore,Aceito,Valido
-GTC5L4EV,Cloud Insider Attack Detection Using Machine Learning,IEEE Xplore,Aceito,Valido
-N8EXZ87N,Anomaly detection system in secure cloud computing environment,Google Scholar,Aceito,Fora do Escopo
-IUHJGJQQ,The Designation of Bio-Inspired Intrusion Detection System Model in Cloud Computing Based on Machine Learning,Google Scholar,Aceito,Valido
-RL5D9EAD,Wavelet transform and unsupervised machine learning to detect insider threat on cloud file-sharing,Google Scholar,Aceito,Valido
-YSJ945IE,Feasibility of supervised machine learning for cloud security,Google Scholar,Rejeitado,Fora do Escopo
-U3DASNFR,Privacy-preserving Machine Learning in Cloud,ACM Digital Library,Aceito,Valido
-QHCZULHV,Towards Highly Secure Yet Efficient KNN Classification Scheme on Outsourced Cloud Data,IEEE Xplore,Pendente,Não Analisado
-RHM4MRFL,Distributed Intrusion Detection System for Cloud Environments based on Data Mining techniques,ScienceDirect,Pendente,Não Analisado
-5QM5ALBK,Scheduling framework for distributed intrusion detection systems over heterogeneous network architectures,ScienceDirect,Pendente,Não Analisado
-NU98XE7E,Device-Free Occupant Activity Sensing Using WiFi-Enabled IoT Devices for Smart Homes,IEEE Xplore,Pendente,Não Analisado
-GL9Z2SN9,A Data Quality-aware Cloud Service Based on Metaheuristic and Machine Learning Provisioning Algorithms,ACM Digital Library,Pendente,Não Analisado
-DIXZQFT5,Autonomic and Integrated Management for Proactive Cyber Security (AIM-PSC),ACM Digital Library,Pendente,Não Analisado
-LLX9VD7Z,A collaborative network intrusion detection system (C-NIDS) in cloud computing,Google Scholar,Pendente,Não Analisado
-MSPKQFM6,DDoS attack detection using machine learning techniques in cloud computing environments,Google Scholar,Pendente,Não Analisado
-2PFZ6MCY,A Novel Semi-Supervised Learning Approach for Network Intrusion Detection on Cloud-Based Robotic System,IEEE Xplore,Pendente,Não Analisado
-LTVMI9RR,A machine learning based intrusion detection scheme for data fusion in mobile clouds involving heterogeneous client networks,ScienceDirect,Pendente,Não Analisado
-47D8M76E,Cloud-based machine learning for the detection of anonymous web proxies,IEEE Xplore,Pendente,Não Analisado
-6KGF9P3A,Keep the PokerFace on! Thwarting cache side channel attacks by memory bus monitoring and cache obfuscation,Springer Link,Pendente,Não Analisado
-84BLSMWX,An adaptive network intrusion detection approach for the cloud environment,IEEE Xplore,Pendente,Não Analisado
-TKNAGE75,A Survey on Resource Scheduling in Cloud Computing: Issues and Challenges,Springer Link,Pendente,Não Analisado
-KGEF57JF,A Markov Detection Tree-Based Centralized Scheme to Automatically Identify Malicious Webpages on Cloud Platforms,IEEE Xplore,Pendente,Não Analisado
-TNL6PEG8,UTTAMA: An Intrusion Detection System Based on Feature Clustering and Feature Transformation,Springer Link,Pendente,Não Analisado
-T4DJEYAA,A heuristic attack detection approach using the “least weighted” attributes for cyber security data,IEEE Xplore,Pendente,Não Analisado
-WHJWDMRG,Machine Learning Based DDoS Attack Detection from Source Side in Cloud,IEEE Xplore,Pendente,Não Analisado
-BKABEZZT,Designing an efficient security framework for detecting intrusions in virtual network of cloud computing,ScienceDirect,Pendente,Não Analisado
-2S92YG2L,Machine Learning Based Intrusion Detection for Virtualized Infrastructures,IEEE Xplore,Pendente,Não Analisado
-SLIDSY4S,Recent advancements in resource allocation techniques for cloud computing environment: a systematic review,Springer Link,Pendente,Não Analisado
-U2AYT9TP,Adaptation in cloud resource configuration: a survey,Springer Link,Pendente,Não Analisado
-CYPJDK2R,Survey of Data Intensive Computing Technologies Application to to Security Log Data Management,ACM Digital Library,Pendente,Não Analisado
-WCGAX5AR,A novel statistical technique for intrusion detection systems,ScienceDirect,Pendente,Não Analisado
-JWWWHNIP,A risk assessment model for selecting cloud service providers,Springer Link,Pendente,Não Analisado
-Q3BJF9J6,A DNN-based object detection system on mobile cloud computing,IEEE Xplore,Pendente,Não Analisado
-BFY7MF8L,Survey on machine learning algorithms as cloud service for CIDPS,IEEE Xplore,Pendente,Não Analisado
-X9W9CCMP,A Convolutional Sequential Model for Network Load Forecasting,ACM Digital Library,Pendente,Não Analisado
-M3XJWI8L,An intelligent intrusion detection system,Springer Link,Pendente,Não Analisado
-2FSMVYE6,Virtualization layer security challenges and intrusion detection/prevention systems in cloud computing: a comprehensive review,Springer Link,Pendente,Não Analisado
-9GC8IY5C,A hybrid multi-layer intrusion detection system in cloud,Springer Link,Pendente,Não Analisado
-A4SBB6AJ,Effective analysis of malware detection in cloud computing,ScienceDirect,Pendente,Não Analisado
-L67K6UUS,Evaluating machine learning algorithms for anomaly detection in clouds,Google Scholar,Pendente,Não Analisado
-9KWTC4MC,Emotion-Aware Multimedia Systems Security,IEEE Xplore,Pendente,Não Analisado
-IL8G7W6L,Survey on cyberspace security,Springer Link,Pendente,Não Analisado
-MIYUAH8W,An autonomic prediction suite for cloud resource provisioning,Springer Link,Pendente,Não Analisado
-S7RFB9MZ,Performance characterization and analysis for Hadoop K-means iteration,Springer Link,Pendente,Não Analisado
-MRYBTN8F,An Investigation on Intrusion Detection System Using Machine Learning,IEEE Xplore,Pendente,Não Analisado
-RDHGRTM3,Real time intrusion detection system for ultra-high-speed big data environments,Springer Link,Pendente,Não Analisado
-GB8TY3RQ,An Autonomous Host-Based Intrusion Detection System for Android Mobile Devices,Springer Link,Pendente,Não Analisado
-M4CJW48U,Resource-Aware Detection and Defense System Against Multi-Type Attacks in the Cloud: Repeated Bayesian Stackelberg Game,IEEE Xplore,Pendente,Não Analisado
-ZI3KRVYP,LR-HIDS: logistic regression host-based intrusion detection system for cloud environments,Springer Link,Pendente,Não Analisado
-Z86EPZTA,Multi-tenant intrusion detection system for public cloud (MTIDS),Springer Link,Pendente,Não Analisado
-LSSEEZ9P,Autonomous Context-Based Service Optimization in Mobile Cloud Computing,Springer Link,Pendente,Não Analisado
-MC6KJYQV,Server-Based Manipulation Attacks Against Machine Learning Models,ACM Digital Library,Pendente,Não Analisado
-JTLYDL9E,Internet of Things: A survey on machine learning-based intrusion detection approaches,ScienceDirect,Pendente,Não Analisado
-WN3CD467,A survey on Intrusion Detection Systems and Honeypot based proactive security mechanisms in VANETs and VANET Cloud,ScienceDirect,Pendente,Não Analisado
-Y29SCVRG,Ensemble based collaborative and distributed intrusion detection systems: A survey,ScienceDirect,Pendente,Não Analisado
-96DZ5PTY,Exploring Data Security Issues and Solutions in Cloud Computing,ScienceDirect,Pendente,Não Analisado
-PKVVRL7Q,Time series anomaly detection for trustworthy services in cloud computing systems,Google Scholar,Pendente,Não Analisado
-QGQWZFSI,DDoS Detection System: Using a Set of Classification Algorithms Controlled by Fuzzy Logic System in Apache Spark,IEEE Xplore,Pendente,Não Analisado
-7E5GQ7WW,A Hierarchical Intrusion Detection System using Support Vector Machine for SDN Network in Cloud Data Center,IEEE Xplore,Pendente,Não Analisado
-TJ7CBJX9,Cloud cover: monitoring large-scale clouds with Varanus,Springer Link,Pendente,Não Analisado
-8XP2U34S,Security of Big Data: A Review,IEEE Xplore,Pendente,Não Analisado
-B6GVCBMQ,A new hybrid approach for intrusion detection using machine learning methods,Springer Link,Pendente,Não Analisado
-WUJZFEZY,Distributed Apriori on cloud plateform without exposing individual transaction data,IEEE Xplore,Pendente,Não Analisado
-M2Z6X4R9,Model Aggregation for Distributed Content Anomaly Detection,ACM Digital Library,Pendente,Não Analisado
-U3CJ8LE2,Secure medical health care content protection system (SMCPS) with watermark detection for multi cloud computing environment,Springer Link,Pendente,Não Analisado
-MEWNAPIZ,An efficient intrusion detection system based on hypergraph - Genetic algorithm for parameter optimization and feature selection in support vector machine,ScienceDirect,Pendente,Não Analisado
-QPMB8JRT,Assessment methodology for anomaly-based intrusion detection in cloud computing,Google Scholar,Pendente,Não Analisado
-7V5V72UH,Security challenges in fog-computing environment: a systematic appraisal of current developments,Springer Link,Pendente,Não Analisado
-DQQCZCQ2,Anomaly detection model based on hadoop platform and weka interface,Google Scholar,Pendente,Não Analisado
-WGGRQCWW,Securing Virtual Infrstructure in Cloud Computing using Big Data Analytics,Google Scholar,Pendente,Não Analisado
-VDSHS4XK,A machine learning application for reducing the security risks in hybrid cloud networks,Springer Link,Pendente,Não Analisado
-ET7G3V3U,How Good Are Machine Learning Clouds for Binary Classification with Good Features?: Extended Abstract,ACM Digital Library,Pendente,Não Analisado
-XBKDUQ8E,An Ensemble Approach for Intrusion Detection System Using Machine Learning Algorithms,IEEE Xplore,Pendente,Não Analisado
-EDRCFMGU,Enhanced intrusion detection and prevention system on cloud environment using hybrid classification and OTS generation,Springer Link,Pendente,Não Analisado
-ZLZAYS9W,Scalable OpenCL FPGA Computing Evolution,ACM Digital Library,Pendente,Não Analisado
-BFZI3RHQ,Automated big security text pruning and classification,IEEE Xplore,Pendente,Não Analisado
-C3DT4MC7,"An overview, examples, and impacts offered by Emerging Services and Analytics in Cloud Computing virtual reality",Springer Link,Pendente,Não Analisado
-ZNBNIBVA,Performance of machine learning techniques in the detection of financial frauds,ScienceDirect,Pendente,Não Analisado
-TF2Z3ICJ,Design of network threat detection and classification based on machine learning on cloud computing,Google Scholar,Pendente,Não Analisado
-CVVGBIK6,Efficient Distributed Denial-of-Service Attack Defense in SDN-Based Cloud,IEEE Xplore,Pendente,Não Analisado
-9VKBTPYW,Anomaly Detection In Secure Cloud Environments Using a Self-Organizing Feature Map (SOFM) Model For Clustering Sets of R-Ordered Vector-Structured Features,ACM Digital Library,Pendente,Não Analisado
-Q6H2BPIS,A deep learning approach for proactive multi-cloud cooperative intrusion detection system,ScienceDirect,Pendente,Não Analisado
-ACAPHU3P,HIDS: A host based intrusion detection system for cloud computing environment,Springer Link,Pendente,Não Analisado
-J8286878,Fog-Assisted SDN Controlled Framework for Enduring Anomaly Detection in an IoT Network,IEEE Xplore,Pendente,Não Analisado
-55JID2K5,Analysis and Detection of DDoS Attacks on Cloud Computing Environment using Machine Learning Techniques,IEEE Xplore,Pendente,Não Analisado
-D6V85LRN,Secure Machine Learning scenario from Big Data in Cloud Computing via Internet of Things network,Google Scholar,Pendente,Não Analisado
-HJKALZVI,Power management in virtualized data centers: state of the art,Springer Link,Pendente,Não Analisado
-N482IJE8,Multi-key privacy-preserving deep learning in cloud computing,Google Scholar,Pendente,Não Analisado
-UYDLB8Z9,Deep Learning of Behaviors for Security,ACM Digital Library,Pendente,Não Analisado
-67A3DNEG,Anomaly Detection System in Cloud Environment Using Fuzzy Clustering Based ANN,Springer Link,Pendente,Não Analisado
-6GTTUUJA,Detecting Anomalies in the Data Residing over the Cloud,IEEE Xplore,Pendente,Não Analisado
-AA6NM8JF,Detecting Advanced Persistent Threats Using Fractal Dimension Based Machine Learning Classification,ACM Digital Library,Pendente,Não Analisado
-JTJS8V7A,Recent security challenges in cloud computing,ScienceDirect,Pendente,Não Analisado
-P5QDGB8R,Taxonomy of DoS and DDoS attacks and desirable defense mechanism in a Cloud computing environment,Springer Link,Pendente,Não Analisado
-9HUFXGU9,The state of the art and taxonomy of big data analytics: view from new big data framework,Springer Link,Pendente,Não Analisado
-KDC6Z7XC,Data Driven Data Center Network Security,ACM Digital Library,Pendente,Não Analisado
-JZJWT6DD,An Unsupervised Approach for Online Detection and Mitigation of High-Rate DDoS Attacks Based on an In-Memory Distributed Graph Using Streaming Data and Analytics,ACM Digital Library,Pendente,Não Analisado
-9XKANBMC,Self-learning method for DDoS detection model in cloud computing,IEEE Xplore,Pendente,Não Analisado
-C45XEX88,A novel fault diagnostic technique for photovoltaic systems based on cascaded forest,DOI.org (Crossref),Pendente,Não Analisado
-L3DIPGBZ,Non-Intrusive Anomaly Detection With Streaming Performance Metrics and Logs for DevOps in Public Clouds: A Case Study in AWS,IEEE Xplore,Pendente,Não Analisado
-9EBEA9KR,A new framework for classification of distributed denial of service (DDOS) attack in cloud computing by machine learning techniques,Google Scholar,Pendente,Não Analisado
-44FWZYGX,Big Data Based Security Analytics for Protecting Virtualized Infrastructures in Cloud Computing,IEEE Xplore,Pendente,Não Analisado
-45FJBZLF,Mobile network intrusion detection for IoT system based on transfer learning algorithm,Springer Link,Pendente,Não Analisado
-4GFQWKY6,Analysis of machine learning techniques used in malware classification in cloud computing environment,Google Scholar,Pendente,Não Analisado
-S4K2LFRV,Preventing the Mistraining of Anomaly-Based IDSs through Ensemble Systems,IEEE Xplore,Pendente,Não Analisado
-2VFLPIAA,Classifying and Predicting DoS and DDoS Attacks on Cloud Services,IEEE Xplore,Pendente,Não Analisado
-NR9FHFB9,Enhancing big data security with collaborative intrusion detection,Google Scholar,Pendente,Não Analisado
-A9QJF6PU,An SVM-based framework for detecting DoS attacks in virtualized clouds under changing environment,Springer Link,Pendente,Não Analisado
-E44AQKEG,Fog computing security: a review of current applications and security solutions,Springer Link,Possível Reanálise,Valido
-NB2ECNAT,A Parallel Host Log Analysis Approach Based on Spark,IEEE Xplore,Possível Reanálise,Valido
-4VGTK3FQ,Prediction-based VM provisioning and admission control for multi-tier web applications,Springer Link,Possível Reanálise,Valido
-YBPLIK3F,A study on smart factory-based ambient intelligence context-aware intrusion detection system using machine learning,Springer Link,Possível Reanálise,Valido
-QGLC3WFH,MalFilter: A Lightweight Real-Time Malicious URL Filtering System in Large-Scale Networks,IEEE Xplore,Possível Reanálise,Valido
-B4KEI5XL,Big Data Meet Cyber-Physical Systems: A Panoramic Survey,IEEE Xplore,Possível Reanálise,Valido
-78STZ64Y,Architecture for Resource-Aware VMI-based Cloud Malware Analysis,ACM Digital Library,Possível Reanálise,Valido
-E68UKECQ,Program Analysis for Secure Big Data Processing,ACM Digital Library,Possível Reanálise,Valido
-LYG8EMRE,The rise of “big data” on cloud computing: Review and open research issues,Google Scholar,Rejeitado,Fora do Escopo
-QT5Z8DPZ,Proactive dynamic virtual-machine consolidation for energy conservation in cloud data centres,Springer Link,Rejeitado,Fora do Escopo
-ARXBSBHJ,Intrusion detection techniques for mobile cloud computing in heterogeneous 5G,Google Scholar,Rejeitado,Fora do Escopo
-H33MS2AI,Towards mitigating uncertainty of data security breaches and collusion in cloud computing,Google Scholar,Rejeitado,Fora do Escopo
-FJE24ZBL,CCSW'16: 8th ACM Cloud Computing Security Workshop,ACM Digital Library,Rejeitado,Não Artigo
-76SHWJ3I,The Performance Analysis of Honeypot Based Intrusion Detection System for Wireless Network,Springer Link,Rejeitado,Fora do Escopo
-TAYCMNHR,UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities,IEEE Xplore,Rejeitado,Fora do Escopo
-5G7LISTH,IoT data feature extraction and intrusion detection system for smart cities based on deep migration learning,ScienceDirect,Rejeitado,Fora do Escopo
-RJ4UKEUH,A hybrid auto-scaling technique for clouds processing applications with service level agreements,Springer Link,Rejeitado,Fora do Escopo
-Z7U5SL5M,"A general perspective of Big Data: applications, tools, challenges and trends",Springer Link,Rejeitado,Fora do Escopo
-ZPGDWMZK,Can functional characteristics usefully define the cloud computing landscape and is the current reference model correct?,Springer Link,Rejeitado,Fora do Escopo
-7I5C2A97,Big data analytics: a survey,Springer Link,Rejeitado,Fora do Escopo
-QLUT3X9I,Source camera identification: a distributed computing approach using Hadoop,Springer Link,Rejeitado,Fora do Escopo
-95ZCC2UK,A Collective Anomaly Detection Approach for Multidimensional Streams in Mobile Service Security,IEEE Xplore,Rejeitado,Fora do Escopo
-F8235MKK,Mobile cloud computing: Challenges and future research directions,ScienceDirect,Rejeitado,Fora do Escopo
-EF8ACTAR,Analysis of Causative Attacks Against SVMs Learning from Data Streams,ACM Digital Library,Rejeitado,Fora do Escopo
-LEF223KI,A review of task scheduling based on meta-heuristics approach in cloud computing,Springer Link,Rejeitado,Fora do Escopo
-A99VMVYW,Landmark-based data location verification in the cloud: review of approaches and challenges,Springer Link,Rejeitado,Fora do Escopo
-JYAV539N,Tackling uncertainty in long-term predictions for host overload and underload detection in cloud computing,Springer Link,Rejeitado,Fora do Escopo
-GSKXBC4I,A Study on Machine Learning Approaches for Outlier Detection in Wireless Sensor Network,IEEE Xplore,Rejeitado,Fora do Escopo
-LMAUKYXA,Fault tolerant software systems using software configurations for cloud computing,Springer Link,Rejeitado,Fora do Escopo
-HVTKE5F5,Architecture Design and Key Technologies of Electric Vehicle Charging Network Operation Service System Based on Cloud Computing,IEEE Xplore,Rejeitado,Fora do Escopo
-N8SVZ8KN,Evolving neural network intrusion detection system for MCPS,IEEE Xplore,Rejeitado,Fora do Escopo
-E5XHDMA4,A view of programming scalable data analysis: from clouds to exascale,Springer Link,Rejeitado,Fora do Escopo
-2I7F74U8,SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol,IEEE Xplore,Rejeitado,Fora do Escopo
-QQ7JJ9NM,Mining PMU Data Streams to Improve Electric Power System Resilience,ACM Digital Library,Rejeitado,Fora do Escopo
-HMKWJB38,"Cloud, fog and edge: Cooperation for the future?",IEEE Xplore,Rejeitado,Fora do Escopo
-MLB5QBVD,Blockchain-based Personal Health Data Sharing System Using Cloud Storage,IEEE Xplore,Rejeitado,Fora do Escopo
-6QXDZ5NH,MDA: message digest-based authentication for mobile cloud computing,Springer Link,Rejeitado,Fora do Escopo
-G6HEDG7A,Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping,IEEE Xplore,Rejeitado,Fora do Escopo
-7TWWKLFB,"Analyzing the availability and performance of an e-health system integrated with edge, fog and cloud infrastructures",Springer Link,Rejeitado,Fora do Escopo
-THQBB89P,Towards cloud based big data analytics for smart future cities,Springer Link,Rejeitado,Fora do Escopo
-64L58JEJ,Integrating Internet-of-Things with the power of Cloud Computing and the intelligence of Big Data analytics — A three layered approach,IEEE Xplore,Rejeitado,Fora do Escopo
-DRWLT66T,Pre-processing Methods of Data Mining,ACM Digital Library,Rejeitado,Fora do Escopo
-GKK52W6C,Towards a Distraction-free Waze,ACM Digital Library,Rejeitado,Fora do Escopo
-9WHWFT3N,MuR-DPA: Top-Down Levelled Multi-Replica Merkle Hash Tree Based Secure Public Auditing for Dynamic Big Data Storage on Cloud,IEEE Xplore,Rejeitado,Fora do Escopo
-5JRRR9QG,Chapter 3 - Cloud Computing,ScienceDirect,Rejeitado,Não Artigo
-JXIRVSMS,Anomaly network-based intrusion detection system using a reliable hybrid artificial bee colony and AdaBoost algorithms,ScienceDirect,Rejeitado,Fora do Escopo
-ULFZ4X8B,A Semantic Internet of Things Framework Using Machine Learning Approach Based on Cloud Computing,ACM Digital Library,Rejeitado,Fora do Escopo
-2AG5ZIBW,Backpage and Bitcoin: Uncovering Human Traffickers,ACM Digital Library,Rejeitado,Fora do Escopo
-N8B5W5AU,Evaluation and design of highly reliable and highly utilized cloud computing systems,Springer Link,Rejeitado,Fora do Escopo
-XFVSHIMY,ScanMe Mobile: A Cloud-based Android Malware Analysis Service,ACM Digital Library,Rejeitado,Fora do Escopo
-XTNKM5YF,Framework for Malicious HTML File Detection,IEEE Xplore,Rejeitado,Fora do Escopo
-WDNCL3MU,War against mobile malware with cloud computing and machine learning forces,IEEE Xplore,Rejeitado,Fora do Escopo
-M9C4F4VU,Adaptive Service Management in Mobile Cloud Computing by Means of Supervised and Reinforcement Learning,Springer Link,Rejeitado,Fora do Escopo
-67WPFKFL,A fog computing industrial cyber-physical system for embedded low-latency machine learning Industry 4.0 applications,Google Scholar,Rejeitado,Fora do Escopo
-KSHFRYT3,Noisy Neighbor Detection Using Skydive,ACM Digital Library,Rejeitado,Fora do Escopo
-6NUE6WSV,cCube: A Cloud Microservices Architecture for Evolutionary Machine Learning Classification,ACM Digital Library,Rejeitado,Fora do Escopo
-4ZVBW2TY,A design space for dynamic service level agreements in OpenStack,Springer Link,Rejeitado,Fora do Escopo
-WJUDGCNZ,Hyperagents: Migrating Host Agents to the Hypervisor,ACM Digital Library,Rejeitado,Fora do Escopo
-9QZX7PTX,Voice Pathology Detection Using Deep Learning on Mobile Healthcare Framework,IEEE Xplore,Rejeitado,Fora do Escopo
-MRM24XME,Clustering-based fragmentation and data replication for flexible query answering in distributed databases,Springer Link,Rejeitado,Fora do Escopo
-UQPY74M3,"Smart, Secure, Yet Energy-Efficient, Internet-of-Things Sensors",IEEE Xplore,Rejeitado,Fora do Escopo
-6QTM9IZM,Machine Learning for Achieving Self-* Properties and Seamless Execution of Applications in the Cloud,IEEE Xplore,Rejeitado,Fora do Escopo
-XW76M8RE,An Android Malware Detection Method Based on Deep AutoEncoder,ACM Digital Library,Rejeitado,Fora do Escopo
-KIYPCJWP,A Tensor-Based Framework for Software-Defined Cloud Data Center,ACM Digital Library,Rejeitado,Fora do Escopo
-E74RASKH,Bird Eyes: A Cloud-Based Object Detection System for Customisable Surveillance,IEEE Xplore,Rejeitado,Fora do Escopo
-VKIL2Z2I,Big Data Analytics in Industrial IoT Using a Concentric Computing Model,IEEE Xplore,Rejeitado,Fora do Escopo
-WSHVTXT8,Service workload patterns for Qos-driven cloud resource management,Springer Link,Rejeitado,Fora do Escopo
-4CB8YPF3,Efficient resource provisioning for elastic Cloud services based on machine learning techniques,Springer Link,Rejeitado,Fora do Escopo
-S8MSVQM8,Agricultural product monitoring system supported by cloud computing,Springer Link,Rejeitado,Fora do Escopo
-QRHHQGRN,Detecting Workload-based and Instantiation-based Economic Denial of Sustainability on 5G Environments,ACM Digital Library,Rejeitado,Fora do Escopo
-KNHD2364,A New Online Anomaly Learning and Detection for Large-scale Service of Internet of Thing,ACM Digital Library,Rejeitado,Fora do Escopo
-GSHYF6PF,Security camera movie and ERP data matching system to prevent theft,Google Scholar,Rejeitado,Fora do Escopo
-FT9HML9Z,Intelligent Crash Detection and Emergency communication system for Two Wheelers,IEEE Xplore,Rejeitado,Fora do Escopo
-LI88ASCM,Actionable Knowledge As A Service (AKAAS): Leveraging big data analytics in cloud computing environments,Springer Link,Rejeitado,Fora do Escopo
-6RMQSXVT,Blockchain-based cloudlet management for multimedia workflow in mobile cloud computing,Springer Link,Rejeitado,Fora do Escopo
-ZU97I9JB,An intrusion detection system for connected vehicles in smart cities,ScienceDirect,Rejeitado,Fora do Escopo
-8XG6CH8R,Intrusion detection systems for IoT-based smart environments: a survey,Springer Link,Rejeitado,Fora do Escopo
-JU9X9Q9Y,Establishing safe cloud: Ensuring data security and performance evaluation,Google Scholar,Rejeitado,Inacessível
-E3CKAID8,Performance Analysis of Large Scale Distributed Systems by Ranking Dominant Features,ACM Digital Library,Rejeitado,Fora do Escopo
-57MJSBRI,Industry 4.0 and cloud computing,Google Scholar,Rejeitado,Não Artigo
-Q9Z8C9P7,Using genetic algorithms to find optimal solution in a search space for a cloud predictive cost-driven decision maker,Springer Link,Rejeitado,Fora do Escopo
-ZAL5IAXQ,Detecting cyber-physical attacks in CyberManufacturing systems with machine learning methods,Google Scholar,Rejeitado,Fora do Escopo
-4TL3EZBY,Complexity vs. Performance: Empirical Analysis of Machine Learning As a Service,ACM Digital Library,Rejeitado,Fora do Escopo
-BHZD5LUP,Intrusion detection systems in the Internet of things: A comprehensive investigation,ScienceDirect,Rejeitado,Fora do Escopo
-8LQS3PMF,Efficient cloud storage confidentiality to ensure data security,Google Scholar,Rejeitado,Fora do Escopo
-3R2ZY8S8,Machine learning in the Internet of Things: Designed techniques for smart cities,ScienceDirect,Rejeitado,Fora do Escopo
-P3CJ3NMB,XSSClassifier: An Efficient XSS Attack Detection Approach Based on Machine Learning Classifier on SNSs.,Google Scholar,Rejeitado,Fora do Escopo
-KBXJA6UT,A cloud computing based network monitoring and threat detection system for critical infrastructures,Google Scholar,Rejeitado,Fora do Escopo
-W9IPYFU2,Nearby live virtual machine migration using cloudlets and multipath TCP,Springer Link,Rejeitado,Fora do Escopo
-D5KMN985,"Towards Evolutionary Machine Learning Comparison, Competition, and Collaboration with a Multi-cloud Platform",ACM Digital Library,Rejeitado,Fora do Escopo
-9H2X32UE,CloudI: Cloud Security Based on Cloud Introspection,ACM Digital Library,Rejeitado,Fora do Escopo
-S6VPLM4N,Dynamic IoT Management System Using K-means Machine Learning for Precision Agriculture Applications,ACM Digital Library,Rejeitado,Fora do Escopo
-6WYVSUKR,"IntelliMaV: A cloud computing measurement and verification 2.0 application for automated, near real-time energy savings quantification and performance deviation detection",ScienceDirect,Rejeitado,Fora do Escopo
-6ZBGYGIR,A Global Manufacturing Big Data Ecosystem for Fault Detection in Predictive Maintenance,IEEE Xplore,Rejeitado,Fora do Escopo
-2DIPPMC5,Guest Editorial Special Issue on Cloud Computing for IoT,IEEE Xplore,Rejeitado,Fora do Escopo
-ICWEQ38M,A Study on Machine Learning Based Generalized Automated Seizure Detection System,IEEE Xplore,Rejeitado,Fora do Escopo
-EZ5LVBJ8,MTBAC: A mutual trust based access control model in cloud computing,Google Scholar,Rejeitado,Fora do Escopo
+Key,Publication Year,Title,Library Catalog,Status,Analise
+KBPR2XB7,2016,Intrusion detection for cloud computing using neural networks and artificial bee colony optimization algorithm,ScienceDirect,Aceito,Valido
+MXUE2YFR,,Cloud computing threats classification model based on the detection feasibility of machine learning algorithms,IEEE Xplore,Aceito,Valido
+JLPJDDVV,,Minimizing Privilege Assignment Errors in Cloud Services,ACM Digital Library,Aceito,Valido
+9E2DYAV5,2018,DNS-IDS: Securing DNS in the Cloud Era,IEEE Xplore,Aceito,Valido
+C2PQYE7L,,An online intrusion detection system to cloud computing based on NeuCube algorithms,Google Scholar,Aceito,Valido
+HSFGF8B6,2019,Proposed GA-BFSS and logistic regression based intrusion detection system,Google Scholar,Aceito,Valido
+4TI8M3YZ,2018,Automated multi-level malware detection system based on reconstructed semantic view of executables using machine learning techniques at VMM,Google Scholar,Aceito,Valido
+ZLNLB73D,,Machine Learning for Anomaly Detection and Categorization in Multi-Cloud Environments,IEEE Xplore,Aceito,Valido
+KAQ4TMKP,,Outlier Dirichlet Mixture Mechanism: Adversarial Statistical Learning for Anomaly Detection in the Fog,IEEE Xplore,Aceito,Valido
+93G5KZN6,2014,Practical Machine Learning for Cloud Intrusion Detection: Challenges and the Way Forward,ACM Digital Library,Aceito,Valido
+SHJ3887F,2015,Intelligent approach to build a Deep Neural Network based IDS for cloud environment using combination of machine learning algorithms,ScienceDirect,Aceito,Valido
+FH99YMNH,2017,A holistic review of Network Anomaly Detection Systems: A comprehensive survey,ScienceDirect,Aceito,Valido
+PE3PLM6P,2018,K-NN classifier for data confidentiality in cloud computing,Google Scholar,Aceito,Valido
+9X7DTSCZ,2014,Genetic programming and K-nearest neighbour classifier based intrusion detection model,IEEE Xplore,Aceito,Valido
+LLX2PWY9,2016,Efficient approaches for intrusion detection in cloud environment,IEEE Xplore,Aceito,Valido
+LQ76CZNB,,Detecting Anomalous Behavior of Black-Box Services Modeled with Distance-Based Online Clustering,IEEE Xplore,Aceito,Valido
+AMEIDA86,"Casas, Pedro; Soro, Francesca; Vanerio, Juan; Settanni, Giuseppe; D'Alconzo, Alessandro","Network security and anomaly detection with Big-DAMA, a big data analytics framework",Google Scholar,Rejeitado,Fora do Escopo
+8NKVAEXH,2017,Evaluation of Apache Spot's Machine Learning Capabilities in an SDN/NFV Enabled Environment,ACM Digital Library,Aceito,Valido
+EGIKMWP8,2017,Securing Virtual Machines from Anomalies Using Program-Behavior Analysis in Cloud Environment,IEEE Xplore,Aceito,Valido
+GTC5L4EV,,Cloud Insider Attack Detection Using Machine Learning,IEEE Xplore,Aceito,Valido
+N8EXZ87N,"Hu, Zhengbing; Gnatyuk, Sergiy; Koval, Oksana; Gnatyuk, Viktor; Bondarovets, Serhii",Anomaly detection system in secure cloud computing environment,Google Scholar,Aceito,Fora do Escopo
+IUHJGJQQ,2017,The Designation of Bio-Inspired Intrusion Detection System Model in Cloud Computing Based on Machine Learning,Google Scholar,Aceito,Valido
+RL5D9EAD,,Wavelet transform and unsupervised machine learning to detect insider threat on cloud file-sharing,Google Scholar,Aceito,Valido
+YSJ945IE,"Bhamare, Deval; Salman, Tara; Samaka, Mohammed; Erbad, Aiman; Jain, Raj",Feasibility of supervised machine learning for cloud security,Google Scholar,Rejeitado,Fora do Escopo
+U3DASNFR,2019,Privacy-preserving Machine Learning in Cloud,ACM Digital Library,Aceito,Valido
+QHCZULHV,2017,Towards Highly Secure Yet Efficient KNN Classification Scheme on Outsourced Cloud Data,IEEE Xplore,Rejeitado,Fora do Escopo
+RHM4MRFL,2018,Distributed Intrusion Detection System for Cloud Environments based on Data Mining techniques,ScienceDirect,Aceito,Valido
+5QM5ALBK,2016,Scheduling framework for distributed intrusion detection systems over heterogeneous network architectures,ScienceDirect,Aceito,Valido
+NU98XE7E,2019,Device-Free Occupant Activity Sensing Using WiFi-Enabled IoT Devices for Smart Homes,IEEE Xplore,Rejeitado,Fora do Escopo
+GL9Z2SN9,2017,A Data Quality-aware Cloud Service Based on Metaheuristic and Machine Learning Provisioning Algorithms,ACM Digital Library,Rejeitado,Fora do Escopo
+DIXZQFT5,2018,Autonomic and Integrated Management for Proactive Cyber Security (AIM-PSC),ACM Digital Library,Rejeitado,Fora do Escopo
+LLX9VD7Z,2018,A collaborative network intrusion detection system (C-NIDS) in cloud computing,Google Scholar,Aceito,Valido
+MSPKQFM6,,DDoS attack detection using machine learning techniques in cloud computing environments,Google Scholar,Aceito,Valido
+2PFZ6MCY,2017,A Novel Semi-Supervised Learning Approach for Network Intrusion Detection on Cloud-Based Robotic System,IEEE Xplore,Aceito,Não Analisado
+LTVMI9RR,2018,A machine learning based intrusion detection scheme for data fusion in mobile clouds involving heterogeneous client networks,ScienceDirect,Rejeitado,Fora do Escopo
+47D8M76E,,Cloud-based machine learning for the detection of anonymous web proxies,IEEE Xplore,Rejeitado,Fora do Escopo
+84BLSMWX,2015,An adaptive network intrusion detection approach for the cloud environment,IEEE Xplore,Rejeitado,Fora do Escopo
+KGEF57JF,,A Markov Detection Tree-Based Centralized Scheme to Automatically Identify Malicious Webpages on Cloud Platforms,IEEE Xplore,Rejeitado,Fora do Escopo
+T4DJEYAA,,A heuristic attack detection approach using the “least weighted” attributes for cyber security data,IEEE Xplore,Aceito,Valido
+WHJWDMRG,,Machine Learning Based DDoS Attack Detection from Source Side in Cloud,IEEE Xplore,Possível Reanálise,Fora do Escopo
+BKABEZZT,2014,Designing an efficient security framework for detecting intrusions in virtual network of cloud computing,ScienceDirect,Aceito,Valido
+2S92YG2L,2017,Machine Learning Based Intrusion Detection for Virtualized Infrastructures,IEEE Xplore,Aceito,Valido
+CYPJDK2R,,Survey of Data Intensive Computing Technologies Application to to Security Log Data Management,ACM Digital Library,Pendente,Não Analisado
+WCGAX5AR,2017,A novel statistical technique for intrusion detection systems,ScienceDirect,Pendente,Não Analisado
+Q3BJF9J6,2015,A DNN-based object detection system on mobile cloud computing,IEEE Xplore,Pendente,Não Analisado
+BFY7MF8L,,Survey on machine learning algorithms as cloud service for CIDPS,IEEE Xplore,Aceito,Valido
+X9W9CCMP,,A Convolutional Sequential Model for Network Load Forecasting,ACM Digital Library,Possível Reanálise,Fora do Escopo
+A4SBB6AJ,2018,Effective analysis of malware detection in cloud computing,ScienceDirect,Pendente,Não Analisado
+L67K6UUS,,Evaluating machine learning algorithms for anomaly detection in clouds,Google Scholar,Pendente,Não Analisado
+9KWTC4MC,2016,Emotion-Aware Multimedia Systems Security,IEEE Xplore,Rejeitado,Fora do Escopo
+MRYBTN8F,2017,An Investigation on Intrusion Detection System Using Machine Learning,IEEE Xplore,Pendente,Não Analisado
+M4CJW48U,2019,Resource-Aware Detection and Defense System Against Multi-Type Attacks in the Cloud: Repeated Bayesian Stackelberg Game,IEEE Xplore,Pendente,Não Analisado
+MC6KJYQV,,Server-Based Manipulation Attacks Against Machine Learning Models,ACM Digital Library,Pendente,Não Analisado
+JTLYDL9E,2014,Internet of Things: A survey on machine learning-based intrusion detection approaches,ScienceDirect,Rejeitado,Fora do Escopo
+WN3CD467,2018,A survey on Intrusion Detection Systems and Honeypot based proactive security mechanisms in VANETs and VANET Cloud,ScienceDirect,Pendente,Não Analisado
+Y29SCVRG,2018,Ensemble based collaborative and distributed intrusion detection systems: A survey,ScienceDirect,Pendente,Não Analisado
+96DZ5PTY,2018,Exploring Data Security Issues and Solutions in Cloud Computing,ScienceDirect,Rejeitado,Fora do Escopo
+PKVVRL7Q,,Time series anomaly detection for trustworthy services in cloud computing systems,Google Scholar,Aceito,Valido
+QGQWZFSI,2019,DDoS Detection System: Using a Set of Classification Algorithms Controlled by Fuzzy Logic System in Apache Spark,IEEE Xplore,Pendente,Não Analisado
+7E5GQ7WW,2017,A Hierarchical Intrusion Detection System using Support Vector Machine for SDN Network in Cloud Data Center,IEEE Xplore,Pendente,Não Analisado
+8XP2U34S,2019,Security of Big Data: A Review,IEEE Xplore,Rejeitado,Fora do Escopo
+WUJZFEZY,2016,Distributed Apriori on cloud plateform without exposing individual transaction data,IEEE Xplore,Pendente,Não Analisado
+M2Z6X4R9,,Model Aggregation for Distributed Content Anomaly Detection,ACM Digital Library,Pendente,Não Analisado
+MEWNAPIZ,2015,An efficient intrusion detection system based on hypergraph - Genetic algorithm for parameter optimization and feature selection in support vector machine,ScienceDirect,Pendente,Não Analisado
+QPMB8JRT,,Assessment methodology for anomaly-based intrusion detection in cloud computing,Google Scholar,Pendente,Não Analisado
+DQQCZCQ2,,Anomaly detection model based on hadoop platform and weka interface,Google Scholar,Pendente,Não Analisado
+WGGRQCWW,,Securing Virtual Infrstructure in Cloud Computing using Big Data Analytics,Google Scholar,Pendente,Não Analisado
+ET7G3V3U,2016,How Good Are Machine Learning Clouds for Binary Classification with Good Features?: Extended Abstract,ACM Digital Library,Rejeitado,Fora do Escopo
+XBKDUQ8E,2017,An Ensemble Approach for Intrusion Detection System Using Machine Learning Algorithms,IEEE Xplore,Pendente,Não Analisado
+ZLZAYS9W,,Scalable OpenCL FPGA Computing Evolution,ACM Digital Library,Pendente,Não Analisado
+BFZI3RHQ,2016,Automated big security text pruning and classification,IEEE Xplore,Pendente,Não Analisado
+ZNBNIBVA,2017,Performance of machine learning techniques in the detection of financial frauds,ScienceDirect,Rejeitado,Fora do Escopo
+TF2Z3ICJ,,Design of network threat detection and classification based on machine learning on cloud computing,Google Scholar,Pendente,Não Analisado
+CVVGBIK6,,Efficient Distributed Denial-of-Service Attack Defense in SDN-Based Cloud,IEEE Xplore,Pendente,Não Analisado
+9VKBTPYW,,Anomaly Detection In Secure Cloud Environments Using a Self-Organizing Feature Map (SOFM) Model For Clustering Sets of R-Ordered Vector-Structured Features,ACM Digital Library,Pendente,Não Analisado
+Q6H2BPIS,2017,A deep learning approach for proactive multi-cloud cooperative intrusion detection system,ScienceDirect,Pendente,Não Analisado
+J8286878,,Fog-Assisted SDN Controlled Framework for Enduring Anomaly Detection in an IoT Network,IEEE Xplore,Pendente,Não Analisado
+55JID2K5,2018,Analysis and Detection of DDoS Attacks on Cloud Computing Environment using Machine Learning Techniques,IEEE Xplore,Pendente,Não Analisado
+D6V85LRN,2017,Secure Machine Learning scenario from Big Data in Cloud Computing via Internet of Things network,Google Scholar,Pendente,Não Analisado
+N482IJE8,2017,Multi-key privacy-preserving deep learning in cloud computing,Google Scholar,Rejeitado,Fora do Escopo
+UYDLB8Z9,2018,Deep Learning of Behaviors for Security,ACM Digital Library,Pendente,Não Analisado
+6GTTUUJA,,Detecting Anomalies in the Data Residing over the Cloud,IEEE Xplore,Pendente,Não Analisado
+AA6NM8JF,,Detecting Advanced Persistent Threats Using Fractal Dimension Based Machine Learning Classification,ACM Digital Library,Rejeitado,Fora do Escopo
+JTJS8V7A,2018,Recent security challenges in cloud computing,ScienceDirect,Pendente,Não Analisado
+KDC6Z7XC,2018,Data Driven Data Center Network Security,ACM Digital Library,Pendente,Não Analisado
+JZJWT6DD,,An Unsupervised Approach for Online Detection and Mitigation of High-Rate DDoS Attacks Based on an In-Memory Distributed Graph Using Streaming Data and Analytics,ACM Digital Library,Pendente,Não Analisado
+9XKANBMC,,Self-learning method for DDoS detection model in cloud computing,IEEE Xplore,Pendente,Não Analisado
+C45XEX88,2017,A novel fault diagnostic technique for photovoltaic systems based on cascaded forest,DOI.org (Crossref),Rejeitado,Fora do Escopo
+L3DIPGBZ,,Non-Intrusive Anomaly Detection With Streaming Performance Metrics and Logs for DevOps in Public Clouds: A Case Study in AWS,IEEE Xplore,Pendente,Não Analisado
+9EBEA9KR,2016,A new framework for classification of distributed denial of service (DDOS) attack in cloud computing by machine learning techniques,Google Scholar,Pendente,Não Analisado
+44FWZYGX,,Big Data Based Security Analytics for Protecting Virtualized Infrastructures in Cloud Computing,IEEE Xplore,Pendente,Não Analisado
+4GFQWKY6,,Analysis of machine learning techniques used in malware classification in cloud computing environment,Google Scholar,Aceito,Valido
+S4K2LFRV,,Preventing the Mistraining of Anomaly-Based IDSs through Ensemble Systems,IEEE Xplore,Pendente,Não Analisado
+2VFLPIAA,2018,Classifying and Predicting DoS and DDoS Attacks on Cloud Services,IEEE Xplore,Aceito,Valido
+NR9FHFB9,2017,Enhancing big data security with collaborative intrusion detection,Google Scholar,Aceito,Valido
+NB2ECNAT,,A Parallel Host Log Analysis Approach Based on Spark,IEEE Xplore,Possível Reanálise,Valido
+QGLC3WFH,2018,MalFilter: A Lightweight Real-Time Malicious URL Filtering System in Large-Scale Networks,IEEE Xplore,Possível Reanálise,Valido
+B4KEI5XL,,Big Data Meet Cyber-Physical Systems: A Panoramic Survey,IEEE Xplore,Possível Reanálise,Valido
+78STZ64Y,2018,Architecture for Resource-Aware VMI-based Cloud Malware Analysis,ACM Digital Library,Possível Reanálise,Valido
+E68UKECQ,2018,Program Analysis for Secure Big Data Processing,ACM Digital Library,Possível Reanálise,Valido
+LYG8EMRE,2017,The rise of “big data” on cloud computing: Review and open research issues,Google Scholar,Rejeitado,Fora do Escopo
+ARXBSBHJ,"Gai, Keke; Qiu, Meikang; Tao, Lixin; Zhu, Yongxin",Intrusion detection techniques for mobile cloud computing in heterogeneous 5G,Google Scholar,Rejeitado,Fora do Escopo
+H33MS2AI,2018,Towards mitigating uncertainty of data security breaches and collusion in cloud computing,Google Scholar,Rejeitado,Fora do Escopo
+FJE24ZBL,2019,CCSW'16: 8th ACM Cloud Computing Security Workshop,ACM Digital Library,Rejeitado,Não Artigo
+TAYCMNHR,,UbeHealth: A Personalized Ubiquitous Cloud and Edge-Enabled Networked Healthcare System for Smart Cities,IEEE Xplore,Rejeitado,Fora do Escopo
+5G7LISTH,2017,IoT data feature extraction and intrusion detection system for smart cities based on deep migration learning,ScienceDirect,Rejeitado,Fora do Escopo
+95ZCC2UK,,A Collective Anomaly Detection Approach for Multidimensional Streams in Mobile Service Security,IEEE Xplore,Rejeitado,Fora do Escopo
+F8235MKK,2016,Mobile cloud computing: Challenges and future research directions,ScienceDirect,Rejeitado,Fora do Escopo
+EF8ACTAR,2017,Analysis of Causative Attacks Against SVMs Learning from Data Streams,ACM Digital Library,Rejeitado,Fora do Escopo
+GSKXBC4I,,A Study on Machine Learning Approaches for Outlier Detection in Wireless Sensor Network,IEEE Xplore,Rejeitado,Fora do Escopo
+HVTKE5F5,2018,Architecture Design and Key Technologies of Electric Vehicle Charging Network Operation Service System Based on Cloud Computing,IEEE Xplore,Rejeitado,Fora do Escopo
+N8SVZ8KN,2017,Evolving neural network intrusion detection system for MCPS,IEEE Xplore,Rejeitado,Fora do Escopo
+2I7F74U8,2017,SecureLR: Secure Logistic Regression Model via a Hybrid Cryptographic Protocol,IEEE Xplore,Rejeitado,Fora do Escopo
+QQ7JJ9NM,,Mining PMU Data Streams to Improve Electric Power System Resilience,ACM Digital Library,Rejeitado,Fora do Escopo
+HMKWJB38,2016,"Cloud, fog and edge: Cooperation for the future?",IEEE Xplore,Rejeitado,Fora do Escopo
+MLB5QBVD,2017,Blockchain-based Personal Health Data Sharing System Using Cloud Storage,IEEE Xplore,Rejeitado,Fora do Escopo
+G6HEDG7A,,Improved Homomorphic Discrete Fourier Transforms and FHE Bootstrapping,IEEE Xplore,Rejeitado,Fora do Escopo
+64L58JEJ,2014,Integrating Internet-of-Things with the power of Cloud Computing and the intelligence of Big Data analytics — A three layered approach,IEEE Xplore,Rejeitado,Fora do Escopo
+DRWLT66T,,Pre-processing Methods of Data Mining,ACM Digital Library,Rejeitado,Fora do Escopo
+GKK52W6C,,Towards a Distraction-free Waze,ACM Digital Library,Rejeitado,Fora do Escopo
+9WHWFT3N,,MuR-DPA: Top-Down Levelled Multi-Replica Merkle Hash Tree Based Secure Public Auditing for Dynamic Big Data Storage on Cloud,IEEE Xplore,Rejeitado,Fora do Escopo
+5JRRR9QG,2019,Chapter 3 - Cloud Computing,ScienceDirect,Rejeitado,Não Artigo
+JXIRVSMS,2015,Anomaly network-based intrusion detection system using a reliable hybrid artificial bee colony and AdaBoost algorithms,ScienceDirect,Rejeitado,Fora do Escopo
+ULFZ4X8B,2016,A Semantic Internet of Things Framework Using Machine Learning Approach Based on Cloud Computing,ACM Digital Library,Rejeitado,Fora do Escopo
+2AG5ZIBW,2017,Backpage and Bitcoin: Uncovering Human Traffickers,ACM Digital Library,Rejeitado,Fora do Escopo
+XFVSHIMY,,ScanMe Mobile: A Cloud-based Android Malware Analysis Service,ACM Digital Library,Rejeitado,Fora do Escopo
+XTNKM5YF,2018,Framework for Malicious HTML File Detection,IEEE Xplore,Rejeitado,Fora do Escopo
+WDNCL3MU,,War against mobile malware with cloud computing and machine learning forces,IEEE Xplore,Rejeitado,Fora do Escopo
+67WPFKFL,2018,A fog computing industrial cyber-physical system for embedded low-latency machine learning Industry 4.0 applications,Google Scholar,Rejeitado,Fora do Escopo
+KSHFRYT3,,Noisy Neighbor Detection Using Skydive,ACM Digital Library,Rejeitado,Fora do Escopo
+6NUE6WSV,2018,cCube: A Cloud Microservices Architecture for Evolutionary Machine Learning Classification,ACM Digital Library,Rejeitado,Fora do Escopo
+WJUDGCNZ,2017,Hyperagents: Migrating Host Agents to the Hypervisor,ACM Digital Library,Rejeitado,Fora do Escopo
+9QZX7PTX,2018,Voice Pathology Detection Using Deep Learning on Mobile Healthcare Framework,IEEE Xplore,Rejeitado,Fora do Escopo
+UQPY74M3,2018,"Smart, Secure, Yet Energy-Efficient, Internet-of-Things Sensors",IEEE Xplore,Rejeitado,Fora do Escopo
+6QTM9IZM,,Machine Learning for Achieving Self-* Properties and Seamless Execution of Applications in the Cloud,IEEE Xplore,Rejeitado,Fora do Escopo
+XW76M8RE,,An Android Malware Detection Method Based on Deep AutoEncoder,ACM Digital Library,Rejeitado,Fora do Escopo
+KIYPCJWP,,A Tensor-Based Framework for Software-Defined Cloud Data Center,ACM Digital Library,Rejeitado,Fora do Escopo
+E74RASKH,2019,Bird Eyes: A Cloud-Based Object Detection System for Customisable Surveillance,IEEE Xplore,Rejeitado,Fora do Escopo
+VKIL2Z2I,2017,Big Data Analytics in Industrial IoT Using a Concentric Computing Model,IEEE Xplore,Rejeitado,Fora do Escopo
+QRHHQGRN,2016,Detecting Workload-based and Instantiation-based Economic Denial of Sustainability on 5G Environments,ACM Digital Library,Rejeitado,Fora do Escopo
+KNHD2364,,A New Online Anomaly Learning and Detection for Large-scale Service of Internet of Thing,ACM Digital Library,Rejeitado,Fora do Escopo
+GSHYF6PF,,Security camera movie and ERP data matching system to prevent theft,Google Scholar,Rejeitado,Fora do Escopo
+FT9HML9Z,2018,Intelligent Crash Detection and Emergency communication system for Two Wheelers,IEEE Xplore,Rejeitado,Fora do Escopo
+ZU97I9JB,2016,An intrusion detection system for connected vehicles in smart cities,ScienceDirect,Rejeitado,Fora do Escopo
+JU9X9Q9Y,2014,Establishing safe cloud: Ensuring data security and performance evaluation,Google Scholar,Rejeitado,Inacessível
+E3CKAID8,,Performance Analysis of Large Scale Distributed Systems by Ranking Dominant Features,ACM Digital Library,Rejeitado,Fora do Escopo
+57MJSBRI,,Industry 4.0 and cloud computing,Google Scholar,Rejeitado,Não Artigo
+ZAL5IAXQ,,Detecting cyber-physical attacks in CyberManufacturing systems with machine learning methods,Google Scholar,Rejeitado,Fora do Escopo
+4TL3EZBY,2016,Complexity vs. Performance: Empirical Analysis of Machine Learning As a Service,ACM Digital Library,Rejeitado,Fora do Escopo
+BHZD5LUP,2018,Intrusion detection systems in the Internet of things: A comprehensive investigation,ScienceDirect,Rejeitado,Fora do Escopo
+8LQS3PMF,2017,Efficient cloud storage confidentiality to ensure data security,Google Scholar,Rejeitado,Fora do Escopo
+3R2ZY8S8,2017,Machine learning in the Internet of Things: Designed techniques for smart cities,ScienceDirect,Rejeitado,Fora do Escopo
+P3CJ3NMB,"Rathore, Shailendra; Sharma, Pradip Kumar; Park, Jong Hyuk",XSSClassifier: An Efficient XSS Attack Detection Approach Based on Machine Learning Classifier on SNSs.,Google Scholar,Rejeitado,Fora do Escopo
+KBXJA6UT,2017,A cloud computing based network monitoring and threat detection system for critical infrastructures,Google Scholar,Rejeitado,Fora do Escopo
+D5KMN985,2018,"Towards Evolutionary Machine Learning Comparison, Competition, and Collaboration with a Multi-cloud Platform",ACM Digital Library,Rejeitado,Fora do Escopo
+9H2X32UE,2015,CloudI: Cloud Security Based on Cloud Introspection,ACM Digital Library,Rejeitado,Fora do Escopo
+S6VPLM4N,,Dynamic IoT Management System Using K-means Machine Learning for Precision Agriculture Applications,ACM Digital Library,Rejeitado,Fora do Escopo
+6WYVSUKR,2019,"IntelliMaV: A cloud computing measurement and verification 2.0 application for automated, near real-time energy savings quantification and performance deviation detection",ScienceDirect,Rejeitado,Fora do Escopo
+6ZBGYGIR,2018,A Global Manufacturing Big Data Ecosystem for Fault Detection in Predictive Maintenance,IEEE Xplore,Rejeitado,Fora do Escopo
+2DIPPMC5,2016,Guest Editorial Special Issue on Cloud Computing for IoT,IEEE Xplore,Rejeitado,Fora do Escopo
+ICWEQ38M,2019,A Study on Machine Learning Based Generalized Automated Seizure Detection System,IEEE Xplore,Rejeitado,Fora do Escopo
+EZ5LVBJ8,2018,MTBAC: A mutual trust based access control model in cloud computing,Google Scholar,Rejeitado,Fora do Escopo
